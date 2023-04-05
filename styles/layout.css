@@ -1,0 +1,15 @@
+.layout-header {
+  background-color: navy;
+  color: aliceblue;
+  font-size: 30px;
+  text-align: centre;
+  padding: 30px;
+}
+
+.layout-footer {
+  background-color: navy;
+  color: aliceblue;
+  font-size: 30px;
+  text-align: centre;
+  padding: 20px;
+}
